@@ -1,0 +1,7 @@
+{
+  "name": "Your New AI Friend",
+  "description": "An intelligent personal assistant that listens to your voice notes, analyzes your images, stores them, and answers questions based on your memories using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
